@@ -17,11 +17,11 @@ main{
 
 h3{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20;
-    color: rgb(33, 33, 141);
+    font-size: 22px;
+    color: rgb(255, 255, 255);
     
 }
 
-.p1{
-    background-color: rgba(229, 157, 157, 0.137);
+p1{
+    background-color: rgba(230, 210, 210, 0.699);
 }
